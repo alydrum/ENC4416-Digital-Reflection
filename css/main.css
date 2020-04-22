@@ -3,7 +3,7 @@
   Image2: https://unsplash.com/photos/npxXWgQ33ZQ
   Image3: https://www.flickr.com/photos/tengrrl/7406005074
   Image5: https://pixabay.com/photos/fake-news-media-disinformation-2355686/
-  Image6: https://pixabay.com/vectors/gui-interface-internet-program-2311261/
+  Image6: https://www.pexels.com/photo/analytics-blur-close-up-commerce-590020/
   Image7: https://unsplash.com/photos/eBRTYyjwpRY
 */
 .image1 { 
@@ -32,7 +32,7 @@
     background-image: url(../img/image5.jpg);
 }
 .image6 {
-    background-image: url(../img/image6.png);
+    background-image: url(../img/image6.jpg);
 }
 .image7 {
     background-image: url(../img/image7.jpg);
